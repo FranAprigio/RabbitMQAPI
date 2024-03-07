@@ -1,6 +1,6 @@
 namespace RabbitMQProductAPI;
 
-public class WeatherForecast
+public class eatherForecast
 {
     public DateTime Date { get; set; }
 
